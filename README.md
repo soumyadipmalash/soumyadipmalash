@@ -1,21 +1,38 @@
-# Hare Krishna <img src="Peacock.webp" alt="Peacock" width="20"/> , I'm **SOUMYADIP MALASH**
+# Hare Krishna <img src="Peacock.webp" alt="Peacock" width="40"/> , I'm '**SOUMYADIP MALASH**'
 
-**A passionate Cloud Engineer || DevOps Engineer || **
+ A passionate Cloud Engineer  || Software Engineer  || Aspiring about AI-ML  || Data Analyst 
 
 Email Me 👉 ✉️ **soumyadipmalash@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+## 👨‍🎓 About Me  
+🎓 I am a "**4th Year B.Tech Student**" at "**KIIT University**" , currently maintaining a "**9.1 CGPA**".  
+🤖 With a strong interest in **Artificial Intelligence & Machine Learning (AI-ML)**, I am passionate about building real-world applications and solving challenging problems through technology.  
 
-## 🔗 I am a Content Creator. 😊😊
+## 💻 Skills & Knowledge  
+- 🖥️ **Programming Languages**: C, C++,Python  
+- 🌐 **Web Development**: HTML, CSS & JS
+- 🗄️ **Database & Querying**: SQL, Sql Server (Check Out My Latest Project)
+- 📘 **Core CS Subjects**:  
+  - 📊 Data Structures & Algorithms (DSA)
+  - ⚙️ Database Management System (DBMS) 
+  - ⚙️ Operating System (OS)  
+  - 🌐 Computer Networks (in-depth understanding of protocols, layers, and architecture)
+  - 📘 Object Oriented Programming (OPPs)
+- 🛠️ **Tools & Platforms**: Hands-on experience with **Cisco Packet Tracer** (network simulation & labs)  
 
-Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
+## 🚀 Interests & Goals  
+- 🤖 Exploring **AI/ML** models and applications  .
+- 🏆 Enhancing **problem-solving skills** through DSA & competitive programming  .
+- 🔗 Building impactful projects that merge **networking concepts** with **machine learning** & **SQL** .
+- 🎯 Aspiring to become an **AI-ML Engineer** & **Cloud Data Analyst Engineer**  .
+
+---
+⭐️ *“Code, Learn, and Evolve – because knowledge grows when shared!”* 🌟
+
+
+## 🔗 A Future Software Engineer 😊
+
+Connect with Me on Linkedin, Instagram, Facebook and Twitter.
 
 [![Techno Snag YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/technosnag) [![Techno Snag Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/technosnag) [![Techno Snag Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/technosnag) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag)
 
