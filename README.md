@@ -1,10 +1,10 @@
-# Hare Krishna <img src="Peacock.webp" alt="Peacock" width="40"/> , I'm '**SOUMYADIP MALASH**'
+# Hare Krishna <img src="Peacock.webp" alt="Peacock" width="40"/> , I'm "**SOUMYADIP MALASH**"
 
  A passionate Cloud Engineer  || Software Engineer  || Aspiring about AI-ML  || Data Analyst 
 
 Email Me 👉 ✉️ **soumyadipmalash@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-## 👨‍🎓 About Me  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 🎓 I am a "**4th Year B.Tech Student**" at "**KIIT University**" , currently maintaining a "**9.1 CGPA**".  
 🤖 With a strong interest in **Artificial Intelligence & Machine Learning (AI-ML)**, I am passionate about building real-world applications and solving challenging problems through technology.  
 
@@ -72,6 +72,17 @@ Connect with Me on Linkedin, Instagram, Facebook and Twitter.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+## 🗂️ Highlight Projects 
+
+<a href="https://github.com/soumyadipmalash/SQL_Banking-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soumyadipmalash&repo=SQL_Banking-Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="banking-system-sql" />
+</a>
+
+<a href="https://github.com/soumyadipmalash/SQL-Queries">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soumyadipmalash&repo=SQL-Queries&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ai-ml-journal" />
+</a>
 
 
 
