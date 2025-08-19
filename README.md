@@ -32,10 +32,10 @@ Email Me 👉 ✉️ **soumyadipmalash@gmail.com** For Collaboration/Project or 
 
 ## 🔗 A Future Software Engineer 😊
 
-Connect with Me on Linkedin, Instagram, Facebook and Twitter.
+Connect with Me on Linkedin, Instagram and Facebook .
   
 
-[![Soumyadip Malash LinkedIn](https://img.shields.io/badge/LinkedIn-Soumyadip%20Malash-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadip-malash)  [![Soumyadip Malash Instagram](https://img.shields.io/badge/Instagram-Soumyadip%20Malash-pink?logo=instagram&logoColor=white)](https://www.instagram.com/soumyadipmalash)  [![Soumyadip Malash Facebook](https://img.shields.io/badge/Facebook-Soumyadip%20Malash-blue?logo=facebook&logoColor=white)](https://www.facebook.com/soumyadip.malash)  
+[![Soumyadip Malash LinkedIn](https://img.shields.io/badge/LinkedIn-Soumyadip%20Malash-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadipmalash)  [![Soumyadip Malash Instagram](https://img.shields.io/badge/Instagram-Soumyadip%20Malash-pink?logo=instagram&logoColor=white)](https://www.instagram.com/soumyadipmalash)  [![Soumyadip Malash Facebook](https://img.shields.io/badge/Facebook-Soumyadip%20Malash-blue?logo=facebook&logoColor=white)](https://www.facebook.com/soumyadip.malash)  
 
 
 <!-- Snake Game Repo View -->
