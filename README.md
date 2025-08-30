@@ -82,7 +82,8 @@ Connect with Me on Linkedin, Instagram and Facebook .
 
 <a href="https://github.com/soumyadipmalash/My_ChatBot-Model">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soumyadipmalash&repo=My_ChatBot-Model
-&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ai-ml-journal" />
+&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="My_ChatBot-Model
+" />
 </a>
 
 
